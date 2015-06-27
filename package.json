@@ -1,0 +1,27 @@
+{
+  "name": "node-crypto-message",
+  "version": "0.0.1",
+  "description": "Projeto de APIRestful para envio e recebimento de mensagem criptografadas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaiocesar/node-crypto-message.git"
+  },
+  "keywords": [
+    "Criptografia",
+    "com",
+    "node.js"
+  ],
+  "author": "Kaio Cesar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaiocesar/node-crypto-message/issues"
+  },
+  "homepage": "https://github.com/kaiocesar/node-crypto-message#readme",
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
+}
